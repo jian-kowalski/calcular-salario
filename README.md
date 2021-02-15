@@ -1,4 +1,4 @@
-# calcular-salario
+Exercicio que desenvolvi, para estudo de orientação a objetos no Bootcamp da @Viasoft.
 
 # Requisitos: 
 
